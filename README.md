@@ -3,6 +3,8 @@
 
 ### Concatenate/minify JavaScript dependencies
 
+:boom: All of these snippets are for reference only. If you copy-paste you will almost certainly need to tweak things like the file paths, globs, etc.
+
 ```js
 var uglify = require('gulp-uglify');
 

@@ -1,9 +1,11 @@
 # gulp-recipes
 > A collection of some useful gulp tasks.
 
-### Concatenate/minify JavaScript dependencies
+:boom: :tropical_drink:
 
-:boom: All of these snippets are for reference only. If you copy-paste you will almost certainly need to tweak things like the file paths, globs, etc.
+All of these snippets are for reference only. If you copy-paste you will almost certainly need to tweak things like the file paths, globs, etc.
+
+### Concatenate/minify JavaScript dependencies
 
 ```js
 var uglify = require('gulp-uglify');
